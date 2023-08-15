@@ -42,5 +42,5 @@ def directory_information(directory):
                             writer.writerow((q, w))
 
 
-my_way = "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\task2_8\\task1_8_hw"
+my_way = "C:\\Users\\lexskop\\PycharmProjects\\homework_8"
 directory_information(my_way)

@@ -1,8 +1,28 @@
 {
-  "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\task2_8": {
-    "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\task2_8\\task1_8_hw": {
-      "task1_8.py": "2310 байт"
+  "C:\\Users\\lexskop\\PycharmProjects": {
+    "C:\\Users\\lexskop\\PycharmProjects\\homework_8": {
+      ".gitignore": "7256 байт",
+      "requirements.txt": "450 байт",
+      "result.csv": "1347 байт",
+      "result.json": "887 байт",
+      "result.pickle": "724 байт",
+      "task1_8.py": "2984 байт"
     }
   },
-  "Общий_размер_исходной_директории": "2310 байт"
+  "C:\\Users\\lexskop\\PycharmProjects\\homework_8": {
+    "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\task2_8": {
+      "_init_.py": "0 байт"
+    }
+  },
+  "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\.idea": {
+    "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\.idea\\inspectionProfiles": {
+      "profiles_settings.xml": "174 байт"
+    }
+  },
+  "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\task2_8": {
+    "C:\\Users\\lexskop\\PycharmProjects\\homework_8\\task2_8\\task_7": {
+      "task_7.py": "404 байт"
+    }
+  },
+  "Общий_размер_исходной_директории": "42087 байт"
 }
